@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	background: white;
 	font-family: 'Fredoka One';
-	font-size: 15px;
+	font-size: 25px;
 	line-height: 1.6;
 	color: #ECECF9;
 }
@@ -43,7 +43,7 @@ body {
 
 
 .header__logo {
-	font-size: 30px;
+	font-size: 75px;
 	font-family": 'Fredoka One';
 	font-weight: 700;
 	color: #fff;
@@ -58,9 +58,9 @@ body {
 }
 
 .nav__link {
-d	isplay: inline-block;
+	display: inline-block;
 	vertical-align: top;
-	margin: 20 10px;
+	margin: 0 10px;
 	
 	color: #fff;
 	text-decoration: none;
